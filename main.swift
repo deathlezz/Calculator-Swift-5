@@ -4,7 +4,6 @@
 //  Created by deathlezz on 28/04/2021.
 //
 
-
 print("* Welcome to Simple Calculator *")
 
 func calculate() {
